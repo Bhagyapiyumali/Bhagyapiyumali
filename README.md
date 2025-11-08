@@ -16,7 +16,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 
-**Backend & Databases:**  
+**Backend:**  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
 
@@ -30,6 +30,42 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+## 🌟 Featured Projects
+
+🔹 [ Paddy Buying and Selling Platform](https://github.com/SE4106-Web-Project-Team/Paddy-buying-and-selling-Platform?tab=readme-ov-file#-paddy-buying-and-selling-platform)  
+A full-stack web application that allows farmers and buyers to connect, chat, and trade agricultural products like paddy and related goods. The platform supports user authentication, real-time chat, gig/shop listings, blog posts, and an AI-powered agricultural chatbot.
+
+🔹 [E commerce Platform](https://github.com/Bhagyapiyumali/e-commerce-platform)  
+A complete CRUD-based system for managing books, users, and borrowing operations.
+
+🔹 [To-Do List Web Application](https://github.com/Bhagyapiyumali/To-Do-List-Web-Application)    
+Capstone project using CNN models to identify malnutrition from images.
+
+## 📈 GitHub Stats
+
+<!-- ![Bhagya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhagyapiyumali&show_icons=true&theme=tokyonight) -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhagyapiyumali&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Bhagyapiyumali&theme=radical)
+
+## 💬 Let's Connect!
+
+🌐 [LinkedIn](https://www.linkedin.com/in/bhagya-senevirathna-0a5968302/)  
+📧 Email: bhagyapiyumali2001@gmail.com  
+🎵 Fun fact: I love listening to music while coding 🎧
+
+
+<!-- theme=radical (vibrant)
+![Profile Views](https://komarev.com/ghpvc/?username=Bhagyapiyumali&color=blue)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Bhagyapiyumali&show_icons=true&theme=dracula)
+theme=tokyonight
+
+theme=github_dark
+
+theme=highcontrast
+
+theme=dracula -->
 
 
 <!--
