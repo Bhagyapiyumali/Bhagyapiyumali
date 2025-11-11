@@ -44,7 +44,7 @@ Capstone project using CNN models to identify malnutrition from images.
 
 ## 📈 GitHub Stats
 
-![Bhagya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhagyapiyumali&show_icons=true&theme=tokyonight)
+<!--![Bhagya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhagyapiyumali&show_icons=true&theme=tokyonight)-->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhagyapiyumali&layout=compact&theme=radical) 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Bhagyapiyumali&theme=tokyonight)
 
