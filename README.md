@@ -1,4 +1,6 @@
-# Hi there 👋, I'm Bhagya Senevirathna!
+# <h1 align="center">
+  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Bhagya Senevirathna!
+</h1>
 
 🎓 I'm a Software Engineering student passionate about web development, AI, and building real-world projects.  
 💻 I enjoy learning new technologies and contributing to open-source projects.  
