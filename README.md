@@ -55,7 +55,7 @@ Capstone project using CNN models to identify malnutrition from images.
 
 ## 💬 Let's Connect!
 
-<a href="www.linkedin.com/in/bhagya-piyumali-senevirathna" target="_blank">
+<a href="[www.linkedin.com/in/bhagya-piyumali-senevirathna](https://www.linkedin.com/in/bhagya-piyumali-senevirathna)" target="_blank">
   <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="50px"/>
 </a>&nbsp;&nbsp;
 <a href="mailto:bhagyapiyumali2001@gmail.com">
