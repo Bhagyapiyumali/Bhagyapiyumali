@@ -1,3 +1,13 @@
+<!-- 👋 Animated Typing Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=25&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hi+I'm+Bhagya!;Software+Engineering+Student;Full+Stack+Developer;Frontend+Developer;Backend+Developer;UI%2FUX+Enthusiast;Always+learning+new+things!" alt="Typing Animation" />
+</p>
+
+<!-- Profile Views Badge -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Bhagyapiyumali&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
 # <h1 align="center">
   Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Bhagya Senevirathna!
 </h1>
