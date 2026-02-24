@@ -56,7 +56,7 @@ A complete CRUD-based system for managing books, users, and borrowing operations
 🔹 [To-Do List Web Application](https://github.com/Bhagyapiyumali/To-Do-List-Web-Application)    
 Personal project using CNN models to identify malnutrition from images.
 
-🔹 [https://github.com/CeylonConnect/ceyclon-connect.git](https://github.com/CeylonConnect/ceyclon-connect)  
+🔹 [CeylonConnect Tourism Web Platform](https://github.com/CeylonConnect/ceyclon-connect)  
 A full-stack tour booking platform for Sri Lanka that connects tourists with local guides. Tourists can discover and book tours, guides can create and manage listings, request verification badges, and interact with customers, while admins manage the entire system through a dedicated dashboard.
 
 ## 📈 GitHub Stats
