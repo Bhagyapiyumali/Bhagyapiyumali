@@ -57,11 +57,11 @@ A full-stack web application that allows farmers and buyers to connect, chat, an
 🔹 [E commerce Platform](https://github.com/Bhagyapiyumali/e-commerce-platform)  
 A complete CRUD-based system for managing books, users, and borrowing operations.
 
-🔹 [To-Do List Web Application](https://github.com/Bhagyapiyumali/To-Do-List-Web-Application)    
-Personal project using CNN models to identify malnutrition from images.
-
 🔹 [CeylonConnect Tourism Web Platform](https://github.com/CeylonConnect/ceyclon-connect)  
 A full-stack tour booking platform for Sri Lanka that connects tourists with local guides. Tourists can discover and book tours, guides can create and manage listings, request verification badges, and interact with customers, while admins manage the entire system through a dedicated dashboard.
+
+🔹[HemaFlow – Blood Bank Management System Community Project](https://github.com/hemaflow-susl)    
+HemaFlow is a blood donation management frontend built with Next.js. The goal is to connect donors, organizations, and hospitals through a modern web experience.
 
 ## 📈 GitHub Stats
 
